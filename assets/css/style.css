@@ -8,6 +8,10 @@ h1 {
     color: white;
 }
 
+h2 {
+    color: white;
+}
+
   .card {
       margin-left: 400px; 
      
@@ -31,9 +35,7 @@ h1 {
   }
 
 
-  p {
-      font-size: 20px; 
-  }
+ 
 
   .text {
       color: blue;
